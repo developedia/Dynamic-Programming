@@ -6,7 +6,12 @@ Here are few problems and solutions using Dynamic Programming.
 | Serial | Problem | Code | Video solution |
 | - | - | - | - |
 | DP-001 | Fibonacci number | [001-Fibonacci](001-Fibonacci) | [DP 001 Introduction to Dynamic Programming](https://youtu.be/sREZssKlVHI) |
+| DP-002 | 0-1 Knapsack Problem | [002-Knapsack](002-Knapsack) | [DP 002 The 0-1 Knapsack Problem](https://youtu.be/pIRU8JKGxCk) |
 
 ##### Check out the Dynamic Programming playlist on YouTube for more [<img class="clickable" title="Click to visit playlist" src="resources/play_button.png" width="50" alt="Play button">](https://www.youtube.com/playlist?list=PLMkLmfNbuqq5RcdaX8nCjFzzZdFtRoTNq)
 
 ##### Subscribe to Developedia on YouTube for more amazing contents [<img class="clickable" title="Click to visit channel" src="resources/subscribe_button.png" width="90" alt="Subscribe button">](https://www.youtube.com/channel/UC1F-ILZO34H7UEj1q-BiZBQ)
+
+##### Like and follow us on Facebook [<img class="clickable" title="Click to visit Facebook page" src="resources/like_button.png" width="40" alt="Like button">](https://www.facebook.com/pg/Developedia-108660267669307)
+
+##### Follow us on Instagram [<img class="clickable" title="Click to visit Instagram profile" src="resources/instagram_logo.png" width="40" alt="Instagram button">](https://www.instagram.com/developedia/)
