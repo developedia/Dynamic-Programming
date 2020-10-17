@@ -7,6 +7,7 @@ Here are few problems and solutions using Dynamic Programming.
 | - | - | - | - |
 | DP-001 | Fibonacci number | [001-Fibonacci](001-Fibonacci) | [DP 001 Introduction to Dynamic Programming](https://youtu.be/sREZssKlVHI) |
 | DP-002 | 0-1 Knapsack Problem | [002-Knapsack](002-Knapsack) | [DP 002 The 0-1 Knapsack Problem](https://youtu.be/pIRU8JKGxCk) |
+| DP-003 | Longest Common Subsequence | [003-LCS](003-LCS) | [DP 003 Longest Common Subsequence (LCS)](https://youtu.be/U7lF0pHYONM) |
 
 ##### Check out the Dynamic Programming playlist on YouTube for more [<img class="clickable" title="Click to visit playlist" src="resources/play_button.png" width="50" alt="Play button">](https://www.youtube.com/playlist?list=PLMkLmfNbuqq5RcdaX8nCjFzzZdFtRoTNq)
 
